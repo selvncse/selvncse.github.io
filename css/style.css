@@ -1,5 +1,3 @@
-/* lightbox */
-
 .buttons {
   display: inline-block;
     border-radius: 4px;
@@ -314,7 +312,7 @@ button:focus,
     height         : 100vh;
     vertical-align : middle;
     position       : relative;
-	    
+	    display: none;
     }
 
 .header .profile-img {

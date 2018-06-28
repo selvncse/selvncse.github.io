@@ -312,7 +312,7 @@ button:focus,
     height         : 100vh;
     vertical-align : middle;
     position       : relative;
-	    display: none;
+	    
     }
 
 .header .profile-img {
